@@ -1,2 +1,2 @@
 # gurzelai.github.io
-Pagina web
+Esta es mi pagina web donde almacenaré todo lo necesario para el desarrollo de apps moviles
